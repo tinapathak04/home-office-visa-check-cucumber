@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b17258e-e4fa-4816-82d0-d3932b237a6d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SzffPBDKZGE1cgbUF2mfyOp51Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rudra/IdeaProjects/home-office-visa-check-cucumber/src/main/java/gov/uk/check/visa&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rudra\IdeaProjects\home-office-visa-check-cucumber\src\main\java\gov\uk\check\visa" />
+      <recent name="C:\Users\Rudra\IdeaProjects\home-office-visa-check-cucumber\src\main\java\gov\uk\check\visa\pages" />
+      <recent name="C:\Users\Rudra\IdeaProjects\home-office-visa-check-cucumber\src\test\java\gov\uk\check\cucumber" />
+      <recent name="C:\Users\Rudra\IdeaProjects\home-office-visa-check-cucumber\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gov.uk.check.cucumber.steps" />
+      <recent name="gov.uk.check.cucumber" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: User from Chile coming to UK for work and plans on staying for longer than six months">
+    <configuration name="Feature: VisaConfirmation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/VisaConfirmation.feature" />
+      <option name="GLUE" value="gov.uk.check.visa.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="home-office-visa-check-cucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: VisaConfirmation" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User from Australia coming to UK for tourism" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/VisaConfirmation.feature" />
+      <option name="GLUE" value="gov.uk.check.visa.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="home-office-visa-check-cucumber" />
+      <option name="NAME_FILTER" value="^User from Australia coming to UK for tourism$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User from Australia coming to UK for tourism$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User from Australia coming to UK for tourism" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User from Chile coming to UK for work and plans on staying for longer than six months" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/VisaConfirmation.feature" />
+      <option name="GLUE" value="gov.uk.check.visa.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="home-office-visa-check-cucumber" />
+      <option name="NAME_FILTER" value="^User from Chile coming to UK for work and plans on staying for longer than six months$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User from Chile coming to UK for work and plans on staying for longer than six months$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User from Chile coming to UK for work and plans on staying for longer than six months" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisaConfiermationSanity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="home-office-visa-check-cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.cucumber.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gov.uk.check.visa.cucumber.runner" />
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.cucumber.runner.VisaConfiermationSanity" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisaConfirmationRegression" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="home-office-visa-check-cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.cucumber.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gov.uk.check.visa.cucumber.runner" />
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.cucumber.runner.VisaConfirmationRegression" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: User from Chile coming to UK for work and plans on staying for longer than six months" />
+        <item itemvalue="Cucumber Java.Scenario: User from Australia coming to UK for tourism" />
+        <item itemvalue="JUnit.VisaConfirmationRegression" />
+        <item itemvalue="JUnit.VisaConfiermationSanity" />
+        <item itemvalue="Cucumber Java.Feature: VisaConfirmation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b17258e-e4fa-4816-82d0-d3932b237a6d" name="Changes" comment="" />
+      <created>1683322569401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683322569401</updated>
+    </task>
+    <servers />
+  </component>
+</project>
